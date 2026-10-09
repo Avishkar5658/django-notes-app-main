@@ -287,26 +287,6 @@ This command does not normally delete named volumes. Inspect the Compose configu
 - Verified application behavior through the browser.
 - Diagnosed a host-port conflict and learned safe ways to resolve it.
 
-## 📸 Screenshots to Add
-
-To make the repository more attractive and demonstrate the project actually working, add your own screenshots to a `screenshots/` directory.
-
-Suggested files:
-
-```text
-screenshots/
-├── architecture.png
-├── docker-compose-build.png
-├── containers-running.png
-└── django-notes-app.png
-```
-
-After adding them, you can display the application screenshot in this README with:
-
-```markdown
-![Django Notes App running in the browser](screenshots/django-notes-app.png)
-```
-
 ## 🔮 Possible Improvements
 
 These are potential future enhancements, not features claimed as completed in this lab:
@@ -323,6 +303,13 @@ These are potential future enhancements, not features claimed as completed in th
 The Django Notes application was deployed as a three-tier Docker project with Nginx, Django, and MySQL running in separate containers managed by Docker Compose. The documented verification confirmed that the Notes page loaded and notes could be added and displayed.
 
 This project provides practical experience with containerization, multi-container orchestration, Docker networking, environment configuration, and troubleshooting—important foundations for Cloud and DevOps engineering.
+
+# 👨‍💻 Author
+
+**Avishkar Thorave**
+
+- LinkedIn: www.linkedin.com/in/avishkar-thorve-a77a8b2a1
+- GitHub: https://github.com/Avishkar5658
 
 ---
 

@@ -88,14 +88,6 @@ The project source code is cloned from GitHub, then built and started with Docke
 | Git | Git | Clones the application repository |
 | Vim | Vim | Edits configuration and project files |
 
-## 📂 Source Repository
-
-The application source used for this project:
-
-**[django-notes-app on GitHub](https://github.com/thawaresameer715-cyber/django-notes-app.git)**
-
-Expected repository files include `Dockerfile`, `docker-compose.yml`, `requirements.txt`, `manage.py`, `nginx/`, and Django application directories.
-
 ## 🚀 Deploy the Project
 
 ### Prerequisites

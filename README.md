@@ -1,1 +1,0 @@
-# django-notes-app-main
